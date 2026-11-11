@@ -1,20 +1,35 @@
-# MatheMatiz
+# MatheMatiz 𐙚🧸ྀི
 
 **A full-screen whiteboard for thinking in ink.**
 
 MatheMatiz opens straight into the canvas: no landing page, no account, and no backend. Draw with a mouse, pen, or
 finger, zoom in for fine handwriting, and export the board as a PNG. Everything runs locally in the browser.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⡴⢲⡄⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡞⠀⠀⡇⠀⢀⡴⠋⠁⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣸⠁⠀⠀⡇⣠⠟⠀⠀⠀⣼⣠⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣿⠀⢠⢤⡿⠃⣀⠀⢀⡞⠉⠁⠀⠀⠈⠙⠶⡄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣻⣰⡏⣼⢁⡴⠋⣰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠹⡄⣀⡀⠀⠀⠀⠀
+⠀⠀⠀⢀⡾⠋⠉⠁⠀⠙⠁⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡈⢷⠀⠀⠀⠀
+⠀⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⢀⣧⡾⠁⠀⠀⠀
+⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀⠀⠀
+⠀⠀⠀⣹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠀⠀⡀⠀⠀⢰⡾⠋⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢻⡇⣀⡀⠀⠺⣿⠇⠀⣀⣤⣄⣀⣠⣬⣥⣤⠾⠛⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠉⠛⠓⠂⠤⠤⠖⠊⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-## Run it
+## Run it ִ ࣪𖤐.ᐟ
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open the local URL printed by Vite.
+Open the local URL printed by Vite. ˙⋆✮
 
-## Build and deploy
+## Build and deploy ⋆˚𖤓˖°
 
 ```bash
 npm run build
@@ -38,7 +53,7 @@ To check the production build locally:
 npm run preview
 ```
 
-## The board
+## The board  𓏲🪽˚. ˖ . ݁
 
 - **Pen**, **highlighter**, **eraser**, **line**, **arrow**, **rectangle**, **ellipse**, **text**, and **Hand** tools.
 - Seven ink colours, adjustable stroke size, and plain / dotted / grid paper.
@@ -47,7 +62,7 @@ npm run preview
 - Light and dark themes, keyboard shortcuts, and automatic local persistence.
 - The board name, every element, and the current view are saved to `localStorage` as you work.
 
-### Zoom and pan
+### Zoom and pan .☘︎ ݁˖
 
 | Action | How |
 | --- | --- |
@@ -57,7 +72,7 @@ npm run preview
 | Reset to 100% | Click the percentage, or press `0` |
 | Fit drawing to screen | The Fit button in the bottom bar, or press `F` |
 
-## Keyboard shortcuts
+## Keyboard shortcuts 𓆝 𓆟 𓆞
 
 | Action | Shortcut |
 | --- | --- |
@@ -79,15 +94,22 @@ npm run preview
 
 Single-key shortcuts are ignored while you are typing in a field.
 
-## Privacy
+## Privacy ────୨ৎ────
 
 Everything stays on this device. There are no network requests, no analytics, and no external APIs. The board is stored
 only in your browser's `localStorage`, and PNG export happens locally.
 
-## Stack
+## Stack .° ༘🎧⋆🖇₊˚ෆ
 
-React, TypeScript, Vite, Canvas 2D, and lucide-react icons.
+React, TypeScript, Vite, Canvas 2D, and lucide-react icons. ( Never using these again lol )
 
 ---
 
 Built by [zen](https://github.com/zenformality).
+
+
+
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/030dbf94-8e72-484a-8890-0144157e8962" />
+
+
+
