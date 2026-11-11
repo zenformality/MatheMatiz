@@ -90,4 +90,4 @@ React, TypeScript, Vite, Canvas 2D, and lucide-react icons.
 
 ---
 
-Built by [prakit](https://github.com/prakit).
+Built by [zen](https://github.com/zenformality).
